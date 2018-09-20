@@ -1,7 +1,9 @@
 # CakePHP specific files #
 ##########################
-/config/app.php
-/config/.env
+
+#for demo purposes these 2 files should be uncommented
+#/config/app.php
+#/config/.env
 /logs/*
 /tmp/*
 /vendor/*
